@@ -21,5 +21,4 @@ class ExampleInstrumentedTest {
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("com.jjas.barrowme", appContext.packageName)
     }
-    https://github.com/hallsjj08/barrow-me.git
 }
